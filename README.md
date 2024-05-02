@@ -12,4 +12,4 @@ This repository contains the implementation of various graph traversal and short
 ## Installation
 Clone this repository using:
 ```bash
-git clone https://github.com/yourusername/dublin-bus-route-finder.git
+git clone https://github.com/niks-yad/dublin_bus_real_time_graph.git
