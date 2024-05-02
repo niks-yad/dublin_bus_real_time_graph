@@ -1,6 +1,5 @@
 # Dublin Bus Real-Time Graph
 Application built as a part of coursework in 2022.
-# Dublin Bus Route Finder
 
 ## Description
 This repository contains the implementation of various graph traversal and shortest path algorithms to find and optimize routes in a simulated bus network in Dublin. The project includes implementations of Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's Algorithm.
