@@ -13,7 +13,7 @@ void add_edge(Graph *g, int from, int to, int weight);
 void dijkstra(Graph* g, int origin); 
 void delete_graph(Graph* g); 
 
-struct Graph* create_graph(int num_nodes) // creates a graph with num_nodes nodes, assuming nodes are stored in alphabetical order (A, B, C..)
+struct Graph* create_graph(int num_nodes) // creates a graph with num_nodes nodes, assuming nodes are stored in alphabetical order (A, B, C, etc.)
 {
     Graph* g = (struct Graph*) malloc(sizeof( Graph));
     g->totalnodes = num_nodes;
